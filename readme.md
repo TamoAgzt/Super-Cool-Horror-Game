@@ -9,8 +9,9 @@
 ## 1. General info
 
 - English for documentation, comments and variable names
-- When adding a feature, add it to unit test to make sure it works
+- When adding a feature, ask another developer to review your changes and perform the merge. Reason is simple: we easily overlook our own mistakes. 
 - Before making any changes, write down for yourself what you are changing and why. In case something goes wrong.
+- Adding models can be pushed straight to development without a feature branch
 
 ## 2. Branches
 
